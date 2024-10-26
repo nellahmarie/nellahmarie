@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nellahmarie
 - 👀 I’m interested in programming
 - 🌱 I’m learning in language C, C#, Java, PHP, Python, Dart
-- 💞️ I’m looking forward to learn more any langauages to enhance my skills.
+- 💞️ I’m still looking forward to learn more any langauages to enhance my skills.
 - 📫 How to reach me? Just email me with these account: cnellahmarie@gmail.com or nellahtwins2@gmail.com
 
 <!---
